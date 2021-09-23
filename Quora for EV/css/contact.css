@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  body{
+    min-height: 100vh;
+    background: url(../images/contact-us.jpeg) no-repeat;
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15%;
+  }
+  
+  .contact-info{
+    color: #f8f4f4;
+    max-width: 500px;
+    line-height: 65px;
+    padding-left: 50px;
+    font-size: 18px;
+  }
+  
+  .contact-info i{
+    margin-right: 20px;
+    font-size: 25px;
+  }
+  
+  
+  .contact-info{
+    flex: 1;
+  }
+  
+  
+  .button{
+      background-color: rgb(26, 226, 26);
+      border-radius: 50px;
+      width: 100px;
+      height:40px;
+      cursor: pointer;
+  }
+  h1{
+      color: honeydew;
+      font-family:'bo
+  }
